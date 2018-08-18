@@ -1,0 +1,6 @@
+真苹果也不能往NTFS里写入
+两个办法
+1：格式化成苹果格式
+2：MAC系统下安装NTFS插件
+12 NTFS分区读写工具 Tuxera NTFS 2016
+链接: https://pan.baidu.com/s/1jH7uX4E 密码: hnme
